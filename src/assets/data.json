@@ -1,7 +1,7 @@
 {
     "projects": [
       {
-        "date": "07/10/2022",
+        
         "title": "TECH STAR",
         "description": "Description about Tech star",
         "url": "https://techstar-khaki.vercel.app/",
@@ -9,14 +9,14 @@
       },
   
       {
-        "date": "11/10/2022",
+        
         "title": "VIDEO HUB",
         "description": "Description about Video hub",
         "url": "https://react-video-app-dun.vercel.app/",
         "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
       },
       {
-        "date": "15/10/2022",
+        
         "title": "Crypto Hub",
         "description": "Description about Crypto Hub",
         "url": "https://react-crypto-hub.vercel.app/",
@@ -24,14 +24,14 @@
       },
   
       {
-        "date": "17/10/2022",
+        
         "title": "REACT CART",
         "description": "Description about React cart",
         "url": "https://react-cart-eosin.vercel.app",
         "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
       },
       {
-        "date": "20/10/2022",
+        
         "title": "PORTFOLIO",
         "description": "Description about Portfolio app",
         "url": "/",

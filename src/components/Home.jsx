@@ -16,7 +16,7 @@ const Home = () => {
   //   });
   // };
   const animationProjectsCount = () => {
-    animate(0, 500, {
+    animate(0, 15, {
       duration: 1,
       onUpdate: (v) => (projectCount.current.textContent = v.toFixed()),
     });
@@ -87,9 +87,7 @@ const Home = () => {
                 <motion.span
                   ref={projectCount}
                   whileInView={animationProjectsCount}
-                >
-                  500
-                </motion.span>
+                ></motion.span>
               </p>
               <span>Projects Done</span>
             </article>
