@@ -61,7 +61,9 @@ const Home = () => {
           />
 
           <div>
-            <a href={resume}>My Resume</a>
+            <a href={resume} target="_blank">
+              My Resume
+            </a>
             <a href="#work">
               Projects <BsArrowUpRight />{" "}
             </a>
