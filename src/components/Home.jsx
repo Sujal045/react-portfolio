@@ -3,6 +3,7 @@ import { animate, motion } from "framer-motion";
 import Typewriter from "typewriter-effect";
 import { BsArrowUpRight, BsChevronDown } from "react-icons/bs";
 import me from "../assets/home2.svg";
+import resume from "../assets/resume.pdf";
 
 const Home = () => {
   // const clientCount = useRef(null);
@@ -60,7 +61,7 @@ const Home = () => {
           />
 
           <div>
-            <a href="mailto:sujalprajapati045@gmail.com">Hire Me</a>
+            <a href={resume}>My Resume</a>
             <a href="#work">
               Projects <BsArrowUpRight />{" "}
             </a>
