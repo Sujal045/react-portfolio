@@ -1,7 +1,12 @@
 {
     "projects": [
       {
-        
+        "title": "MERN BLOG",
+        "description": "Complete full stack Blogging application in which user can login and create blogs. User can also edit the blog.",
+        "url": "https://github.com/Sujal045/mern-blog",
+        "imgSrc": "https://city-dog.cz/wp-content/uploads/2023/01/blogging.png"
+      },
+      {
         "title": "TECH STAR",
         "description": "Description about Tech star",
         "url": "https://techstar-khaki.vercel.app/",
@@ -31,7 +36,6 @@
         "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
       },
       {
-        
         "title": "PORTFOLIO",
         "description": "Description about Portfolio app",
         "url": "/",
