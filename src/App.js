@@ -7,12 +7,14 @@ import Testimonial from "./components/Testimonial.jsx";
 import Contact from "./components/Contact";
 import { Toaster } from "react-hot-toast";
 import Footer from "./components/Footer";
+import Experience from "./components/Experience";
 
 function App() {
   return (
     <>
       <Header />
       <Home />
+      <Experience />
       <Work />
       <Timeline />
       <Services />

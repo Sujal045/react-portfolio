@@ -4,6 +4,8 @@ import Typewriter from "typewriter-effect";
 import { BsArrowUpRight, BsChevronDown } from "react-icons/bs";
 import me from "../assets/home2.svg";
 import resume from "../assets/myresume.pdf";
+import GitHubIcon from "@mui/icons-material/GitHub";
+import LinkedInIcon from "@mui/icons-material/LinkedIn";
 
 const Home = () => {
   // const clientCount = useRef(null);
@@ -59,9 +61,21 @@ const Home = () => {
               cursor: "",
             }}
           />
+          <span>
+            <a href="https://github.com/Sujal045" target="blank">
+              <p>
+                <GitHubIcon /> Github
+              </p>
+            </a>
+            <a href="http://https://www.linkedin.com/in/sujal-prajapati-4a68ab220/">
+              <p>
+                <LinkedInIcon /> LinkedIn
+              </p>
+            </a>
+          </span>
 
           <div>
-            <a href={resume} target="_blank">
+            <a href={resume} target="blank">
               My Resume
             </a>
             <a href="#work">
