@@ -67,7 +67,7 @@ const Home = () => {
                 <GitHubIcon /> Github
               </p>
             </a>
-            <a href="http://https://www.linkedin.com/in/sujal-prajapati-4a68ab220/">
+            <a href="https://www.linkedin.com/in/sujal-prajapati-4a68ab220/">
               <p>
                 <LinkedInIcon /> LinkedIn
               </p>
