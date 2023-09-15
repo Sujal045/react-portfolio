@@ -3,7 +3,7 @@ import { animate, motion } from "framer-motion";
 import Typewriter from "typewriter-effect";
 import { BsArrowUpRight, BsChevronDown } from "react-icons/bs";
 import me from "../assets/home2.svg";
-import resume from "../assets/myresume.pdf";
+import resume from "../assets/sujal.pdf";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 
@@ -87,7 +87,7 @@ const Home = () => {
               Currently
               <br />
             </p>
-            <span>EC (Sem-6)</span>
+            <span>EC (Sem-7)</span>
             <span>
               Vishwakarma Govt. Eng. College,
               <br />

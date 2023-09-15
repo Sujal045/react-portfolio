@@ -1,5 +1,5 @@
 import React from "react";
-import me from "../assets/me.jpg";
+import me from "../assets/sujal.jpg";
 import { AiFillGithub, AiFillLinkedin, AiOutlineArrowUp } from "react-icons/ai";
 
 const Footer = () => {
